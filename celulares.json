@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Samsung",
+    "version": "Galaxy Z Flip5",
+    "description": "Alta gama",
+    "precio":"600.000",
+    "imagen":"imagenes/galaxyzflip5.png"
+  },
+  {
+    "name": "Motorola",
+    "version": "Onefusion",
+    "description": "Alta gama",
+    "precio":"500.000",
+    "imagen":"imagenes/motorazr.png"
+  },
+  {
+    "name": "Xiaomi",
+    "version": "Xiaomi Redmi Note 12",
+    "description": "Alta gama",
+    "precio":"400.000",
+    "imagen":"imagenes/redmi-12.png"
+  }
+]
